@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/areeebs?tab=repositories">Repositories</a> ·
-  <a href="https://github.com/users/areeebs/projects/1/views/1">Open Source Lab</a>
 </p>
 
 ---
