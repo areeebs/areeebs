@@ -13,14 +13,7 @@ I learn by making small, usable projects, trying them locally, and writing down 
 
 ### Featured projects
 
-| Project | What it does |
-| --- | --- |
-| [SOC IOC Workbench](https://github.com/areeebs/soc-ioc-workbench) | Normalize indicators locally, with optional provider lookups. |
-| [Domain Posture Check](https://github.com/areeebs/domain-posture-check) | Read-only DNS, TLS, HTTPS, and security-header checks. |
-| [Cloud Everyday Kit](https://github.com/areeebs/cloud-everyday-kit) | Local checks for cloud cost CSVs, IAM policies, and Kubernetes manifests. |
-| [Compose Config Diff](https://github.com/areeebs/compose-config-diff) | Compare Compose configurations with secret-aware redaction. |
-| [Terraform Plan Brief](https://github.com/areeebs/terraform-plan-brief) | Highlight deletes and replacements in Terraform plan reviews. |
-| [Docker Learning Lab](https://github.com/areeebs/docker-learning-lab) | Hands-on exercises for containers, volumes, and Compose. |
+I build open-source tools for SOC triage, cloud security, and AI security. Recent projects include [SOC IOC Workbench](https://github.com/areeebs/soc-ioc-workbench), [HIBP Domain Exposure Audit](https://github.com/areeebs/hibp-domain-exposure-audit), [CloudTrail Change Hunter](https://github.com/areeebs/cloudtrail-change-hunter), and AI-agent security tools such as [Agent Authority Analyzer](https://github.com/areeebs/agent-authority-analyzer) and [MCP Boundary Audit](https://github.com/areeebs/mcp-boundary-audit).
 
 ### How I like to build
 
